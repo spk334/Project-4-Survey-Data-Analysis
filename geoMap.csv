@@ -1,0 +1,224 @@
+Country,Region_MetroArea,Score
+US,Florence-Myrtle Beach SC,100
+US,Palm Springs CA,90
+US,West Palm Beach-Ft. Pierce FL,89
+US,Tampa-St. Petersburg (Sarasota) FL,82
+US,Ft. Myers-Naples FL,79
+US,Phoenix AZ,76
+US,Providence RI-New Bedford MA,69
+US,Orlando-Daytona Beach-Melbourne FL,69
+US,Miami-Ft. Lauderdale FL,68
+US,Jacksonville FL,66
+US,Cincinnati OH,66
+US,Boston MA-Manchester NH,65
+US,Detroit MI,64
+US,Harrisburg-Lancaster-Lebanon-York PA,63
+US,Denver CO,63
+US,Charleston SC,63
+US,Savannah GA,63
+US,Louisville KY,63
+US,Santa Barbara-Santa Maria-San Luis Obispo CA,63
+US,Mobile AL-Pensacola (Ft. Walton Beach) FL,62
+US,Philadelphia PA,62
+US,Salt Lake City UT,61
+US,Ft. Smith-Fayetteville-Springdale-Rogers AR,60
+US,Monterey-Salinas CA,60
+US,Nashville TN,59
+US,Buffalo NY,59
+US,Sacramento-Stockton-Modesto CA,58
+US,Charleston-Huntington WV,58
+US,Harlingen-Weslaco-Brownsville-McAllen TX,58
+US,Albuquerque-Santa Fe NM,56
+US,Washington DC (Hagerstown MD),56
+US,Chattanooga TN,56
+US,Colorado Springs-Pueblo CO,55
+US,Birmingham AL,55
+US,Kansas City MO,54
+US,Greensboro-High Point-Winston Salem NC,54
+US,Los Angeles CA,54
+US,Cleveland-Akron (Canton) OH,54
+US,Chicago IL,53
+US,Dallas-Ft. Worth TX,53
+US,El Paso TX,53
+US,Flint-Saginaw-Bay City MI,52
+US,Knoxville TN,52
+US,Hartford & New Haven CT,52
+US,Toledo OH,52
+US,Norfolk-Portsmouth-Newport News VA,52
+US,Houston TX,52
+US,Indianapolis IN,52
+US,Charlotte NC,52
+US,Dayton OH,52
+US,Pittsburgh PA,51
+US,Wilkes Barre-Scranton PA,51
+US,Seattle-Tacoma WA,50
+US,Columbus OH,50
+US,Raleigh-Durham (Fayetteville) NC,50
+US,New Orleans LA,50
+US,Reno NV,50
+US,Boise ID,50
+US,Green Bay-Appleton WI,49
+US,San Diego CA,49
+US,Portland-Auburn ME,49
+US,Milwaukee WI,49
+US,Atlanta GA,48
+US,San Francisco-Oakland-San Jose CA,48
+US,Lexington KY,47
+US,Austin TX,47
+US,Minneapolis-St. Paul MN,46
+US,Richmond-Petersburg VA,46
+US,Waco-Temple-Bryan TX,46
+US,Huntsville-Decatur (Florence) AL,46
+US,Fresno-Visalia CA,46
+US,Albany-Schenectady-Troy NY,46
+US,Portland OR,45
+US,Baltimore MD,45
+US,St. Louis MO,44
+US,Greenville-Spartanburg SC-Asheville NC-Anderson SC,44
+US,San Antonio TX,44
+US,Columbia SC,42
+US,New York NY,42
+US,Tucson (Sierra Vista) AZ,41
+US,Las Vegas NV,41
+US,Burlington VT-Plattsburgh NY,39
+US,Tulsa OK,36
+US,Syracuse NY,34
+US,Little Rock-Pine Bluff AR,32
+US,Honolulu HI,32
+US,Spokane WA,30
+US,Madison WI,30
+US,Memphis TN,29
+US,Oklahoma City OK,28
+US,Grand Rapids-Kalamazoo-Battle Creek MI,28
+US,Roanoke-Lynchburg VA,27
+US,Des Moines-Ames IA,26
+US,Omaha NE,25
+US,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,22
+US,North Platte NE,
+US,Lafayette IN,
+US,Harrisonburg VA,
+US,Alexandria LA,
+US,Idaho Falls-Pocatello ID,
+US,Elmira NY,
+US,Wilmington NC,
+US,Duluth MN-Superior WI,
+US,Rockford IL,
+US,Mankato MN,
+US,Wheeling WV-Steubenville OH,
+US,Albany GA,
+US,Biloxi-Gulfport MS,
+US,Yakima-Pasco-Richland-Kennewick WA,
+US,Greenville-New Bern-Washington NC,
+US,Fargo-Valley City ND,
+US,Utica NY,
+US,Hattiesburg-Laurel MS,
+US,Bluefield-Beckley-Oak Hill WV,
+US,Medford-Klamath Falls OR,
+US,Corpus Christi TX,
+US,Peoria-Bloomington IL,
+US,Erie PA,
+US,Youngstown OH,
+US,Anchorage AK,
+US,Evansville IN,
+US,La Crosse-Eau Claire WI,
+US,Baton Rouge LA,
+US,Joplin MO-Pittsburg KS,
+US,Springfield-Holyoke MA,
+US,Traverse City-Cadillac MI,
+US,Davenport IA-Rock Island-Moline IL,
+US,Johnstown-Altoona PA,
+US,Monroe LA-El Dorado AR,
+US,Rapid City SD,
+US,Clarksburg-Weston WV,
+US,Springfield MO,
+US,Beaumont-Port Arthur TX,
+US,Lansing MI,
+US,Bakersfield CA,
+US,Gainesville FL,
+US,Sioux City IA,
+US,Jackson MS,
+US,Shreveport LA,
+US,Bangor ME,
+US,Rochester MN-Mason City IA-Austin MN,
+US,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,
+US,Columbia-Jefferson City MO,
+US,Columbus GA,
+US,Twin Falls ID,
+US,South Bend-Elkhart IN,
+US,Macon GA,
+US,Champaign & Springfield-Decatur IL,
+US,Terre Haute IN,
+US,Bowling Green KY,
+US,Rochester NY,
+US,Lafayette LA,
+US,Wausau-Rhinelander WI,
+US,Eugene OR,
+US,Salisbury MD,
+US,Tyler-Longview(Lufkin & Nacogdoches) TX,
+US,Lubbock TX,
+US,Odessa-Midland TX,
+US,Lincoln & Hastings-Kearney NE,
+US,Columbus-Tupelo-West Point MS,
+US,Augusta GA,
+US,Binghamton NY,
+US,Chico-Redding CA,
+US,Tallahassee FL-Thomasville GA,
+US,Wichita-Hutchinson KS,
+US,Ft. Wayne IN,
+US,Tri-Cities TN-VA,
+US,Watertown NY,
+US,Presque Isle ME,
+US,Marquette MI,
+US,Lima OH,
+US,Alpena MI,
+US,Charlottesville VA,
+US,Zanesville OH,
+US,Parkersburg WV,
+US,Topeka KS,
+US,Dothan AL,
+US,Victoria TX,
+US,Wichita Falls TX & Lawton OK,
+US,Ottumwa IA-Kirksville MO,
+US,Amarillo TX,
+US,St. Joseph MO,
+US,Jackson TN,
+US,Lake Charles LA,
+US,Greenwood-Greenville MS,
+US,Panama City FL,
+US,Sherman TX-Ada OK,
+US,San Angelo TX,
+US,Abilene-Sweetwater TX,
+US,Minot-Bismarck-Dickinson(Williston) ND,
+US,Montgomery (Selma) AL,
+US,Meridian MS,
+US,Quincy IL-Hannibal MO-Keokuk IA,
+US,Sioux Falls(Mitchell) SD,
+US,Jonesboro AR,
+US,Fairbanks AK,
+US,Juneau AK,
+US,Laredo TX,
+US,Butte-Bozeman MT,
+US,Great Falls MT,
+US,"Billings, MT",
+US,Cheyenne WY-Scottsbluff NE,
+US,Missoula MT,
+US,Helena MT,
+US,Casper-Riverton WY,
+US,Yuma AZ-El Centro CA,
+US,Grand Junction-Montrose CO,
+US,Glendive MT,
+US,Eureka CA,
+US,Bend OR,
+CA,British Columbia,100
+CA,Ontario,89
+CA,Alberta,48
+CA,Quebec,20
+CA,Newfoundland and Labrador,
+CA,Nova Scotia,
+CA,Manitoba,
+CA,New Brunswick,
+CA,Saskatchewan,
+CA,Northwest Territories,
+CA,Nunavut,
+CA,Prince Edward Island,
+CA,Yukon Territory,
